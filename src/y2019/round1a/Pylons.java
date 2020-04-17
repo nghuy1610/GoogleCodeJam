@@ -1,4 +1,4 @@
-package y2019.round1;
+package y2019.round1a;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
